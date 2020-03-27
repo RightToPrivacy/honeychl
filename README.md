@@ -17,7 +17,7 @@ This is why it is suggested to only open files downloaded over tor in a secure e
 Example 1): You want to protect your company/software/documents. You keep embedded "call home" code in all important documents. This way you know who is accessing them.
 
 Example 2): Maybe in an investigation you would send an email to the targeted email addresses including html tag to remotely load an image. Something simple that looks like it belongs in the email like:
-<img src="http://company.server/images/logo.jpg">
+### '<img src="http://company.server/images/logo.jpg">'
 
 ### HOWTO:
 
